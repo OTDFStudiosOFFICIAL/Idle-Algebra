@@ -1,0 +1,4 @@
+kivy==2.1.0
+buildozer==1.2.0
+pyinstaller==5.3
+py2app==0.28
